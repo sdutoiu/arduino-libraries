@@ -13,3 +13,6 @@
 [submodule "IRLib"]
 	path = IRLib
 	url = git@github.com:cyborg5/IRLib.git
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
