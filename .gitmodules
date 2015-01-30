@@ -7,3 +7,6 @@
 [submodule "Adafruit_AM2315"]
 	path = Adafruit_AM2315
 	url = git@github.com:adafruit/Adafruit_AM2315.git
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = git@github.com:adafruit/Adafruit_SSD1306.git
