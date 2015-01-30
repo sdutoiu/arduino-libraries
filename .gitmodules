@@ -4,3 +4,6 @@
 [submodule "Adafruit_ESP8266"]
 	path = Adafruit_ESP8266
 	url = git@github.com:adafruit/Adafruit_ESP8266.git
+[submodule "Adafruit_AM2315"]
+	path = Adafruit_AM2315
+	url = git@github.com:adafruit/Adafruit_AM2315.git
