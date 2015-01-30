@@ -1,3 +1,6 @@
 [submodule "DHT-sensor-library"]
 	path = DHT-sensor-library
 	url = git@github.com:adafruit/DHT-sensor-library.git
+[submodule "Adafruit_ESP8266"]
+	path = Adafruit_ESP8266
+	url = git@github.com:adafruit/Adafruit_ESP8266.git
