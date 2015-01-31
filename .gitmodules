@@ -10,9 +10,9 @@
 [submodule "IRLib"]
 	path = IRLib
 	url = git@github.com:cyborg5/IRLib.git
-[submodule "AdafruitGFXLibrary"]
-	path = AdafruitGFXLibrary
-	url = git@github.com:adafruit/Adafruit-GFX-Library.git
 [submodule "DHTsensorLibrary"]
 	path = DHTsensorLibrary
 	url = git@github.com:adafruit/DHT-sensor-library.git
+[submodule "Adafruit_GFX_Library"]
+	path = Adafruit_GFX_Library
+	url = git@github.com:adafruit/Adafruit-GFX-Library.git
