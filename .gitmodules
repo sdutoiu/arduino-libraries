@@ -16,3 +16,6 @@
 [submodule "Adafruit_GFX_Library"]
 	path = Adafruit_GFX_Library
 	url = git@github.com:adafruit/Adafruit-GFX-Library.git
+[submodule "arduino_timerone"]
+	path = arduino_timerone
+	url = https://github.com/svn2github/arduino-timerone
